@@ -2,7 +2,6 @@ FreeAISync
 > Free, open-source, AI-powered folder sync and personal data management assistant for macOS and Windows.
 > 免费、开源、跨平台的 AI 文件夹同步与个人资料管理助手，支持 macOS 和 Windows。
 ---
-English
 What is FreeAISync?
 FreeAISync is a free and open-source cross-platform folder synchronization tool designed for macOS and Windows.
 It is built for real-world file management scenarios, including phones, USB drives, SD cards, portable SSDs, external hard drives, photo libraries, video archives, large files, project folders, and personal backup disks.
@@ -183,7 +182,6 @@ Support the Project
 If you find FreeAISync useful, please consider giving this repository a star.
 Your star helps the project grow and encourages the development of more features, including better macOS support, better Windows integration, smarter sync planning, duplicate detection, storage analysis, photo classification, video classification, and safer synchronization workflows.
 ---
-中文
 什么是 FreeAISync？
 FreeAISync 是一个面向 macOS 和 Windows 的免费开源跨平台文件夹同步工具。
 它专门面向真实的文件管理场景设计，例如手机、U 盘、SD 卡、移动 SSD、移动硬盘、照片库、视频库、大型文件、项目目录和个人备份盘等。
